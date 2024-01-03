@@ -1,0 +1,9 @@
+push 0
+push 4
+add
+dup
+print
+ifeq 1
+dup
+jump 2
+print
