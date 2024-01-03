@@ -1,0 +1,1 @@
+gcc ..\tests\parser.test.c -o ..\build\parser.test.exe & ..\build\parser.test.exe

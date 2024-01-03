@@ -1,0 +1,1 @@
+gcc ..\tests\binarytree.test.c -o ..\build\btree.test.exe & ..\build\btree.test.exe
